@@ -1,1 +1,1 @@
-# Quick-Bites-DBMS-Mini-Project
+# Web-developement-mini-project
